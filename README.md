@@ -1,2 +1,3 @@
-# Predict-the-income-level
-This project aims to predict individuals' income levels based on demographic and occupational characteristics such as age, education, marital status, occupation, gender, and hours worked. The goal is to classify income into two categories: above or below 50K using machine learning models.
+# Predict the Income Level Project
+
+This project aims to predict the income level of individuals based on various demographic and employment-related features. The dataset includes attributes such as age, work class, education level, marital status, occupation, relationship, race, sex, capital gains/losses, hours worked per week, and native country. The target variable is whether the income is above or below 50K, helping to predict income categories using machine learning models. This task focuses on understanding the factors influencing income and building predictive models based on these features.
